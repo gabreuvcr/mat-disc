@@ -1,2 +1,2 @@
 # Matemática Discreta
-Trabalho da matéria Matemática Discreta - 2018/1.
+Trabalho de Matemática Discreta - 2018/1.
