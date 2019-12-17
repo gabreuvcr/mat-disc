@@ -1,0 +1,15 @@
+Importante - leia isso primeiro:
+---------------------------------
+Esse programa:
+- É feito para ser executado em Windows.
+- Irá ler o arquivo usando fopen, tendo então DUAS maneiras do usuario utilizar:
+- O PROGRAMA LERÁ APENAS O ARQUIVO QUE ESTEJA DENTRO DO MESMO DIRETORIO DO ARQUIVO
+EXECUTAVEL, OU SEJA, O ARQUIVO "txt" E O PROGRAMA DEVEM ESTAR NO MESMO LUGAR.
+
+1°- Usando o nome pre-definido do codigo, o que torna necessario que o usuario
+renomeie o arquivo txt que será utilizado para "relacao".
+2°- Alterando a linha 425 do programa, trocando o nome "relacao" para o nome corres-
+pondente do arquivo txt que será utilizado.
+
+- Caso os nomes nao correspondam, ira aparecer uma mensagem de Erro.
+---------------------------------
